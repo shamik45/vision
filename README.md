@@ -19,7 +19,7 @@ Pre-requisites for this workshop are:
 **Make sure you DO NOT use your WORK or SCHOOL account, You MUST use the Azure Pass provided and a Microsoft Personal Account**
 ---
 
-## Step 0 - Get access to Azure
+## Step 0 - Get access to Azure .  
 Create your Azure Pass Account by going to this website:
 https://www.microsoftazurepass.com
 
